@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "happy-mobile",
-    "slug": "happy-mobile",
+    "name": "Happy",
+    "slug": "happy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Happy é um projeto desenvolvido com base no Dia das Crianças. O objetivo é conectar as pessoas a orfanatos que permitem tornar o dia das crianças mais especial.",
+    "githubUrl": "https://github.com/CarlosETB/happy-mobile"
   }
 }
